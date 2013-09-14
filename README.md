@@ -4,7 +4,7 @@ Family-Food-Recipes
 This is the family recipe book...It started as a paper project, but I think this should work much better in the long-term.  Sadly, I don't think the fam can navigate GitHub just yet…but they will someday!
 
 ##Contents:
-1. Tessie's Gang
+1. [Tessie's Gang](Tessies-Gang.md)
 2. Arroz Caldo
 3. Bistek
 4. Spaghetti
