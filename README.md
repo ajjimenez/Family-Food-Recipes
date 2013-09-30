@@ -1,9 +1,11 @@
 Family-Food-Recipes
 ===================
 
-This is the family recipe book...It started as a paper project, but I think this should work much better in the long-term.  Sadly, I don't think the fam can navigate GitHub just yet…but they will someday!
+This is the family recipe book...It started as a paper project, but I think this should work much better in the long-term.  
 
-[The Prettified web version via Jekyll](http://ajjimenez.github.io/Family-Food-Recipes)
+I'm making use of GitHub pages so that my non-technical family members can make easy use of the repo without having to worry about the underlying structure.  The eventual goal is to suck at least a few of them into this world and get some forking and pulling.
+
+[The Prettified web version via Jekyll & GitHub Pages](http://ajjimenez.github.io/Family-Food-Recipes)
 
 ##Contents:
 1. [Tessie's Gang](Tessies-Gang.md)
